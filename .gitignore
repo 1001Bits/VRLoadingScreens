@@ -1,0 +1,7 @@
+build/
+package/Data/F4SE/Plugins/VRLoadingScreens.dll
+*.user
+*.suo
+.vs/
+CMakeSettings.json
+out/
